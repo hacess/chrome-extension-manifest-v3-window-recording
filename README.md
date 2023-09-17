@@ -1,6 +1,6 @@
-# Chrome Extension: Manifest V3 Window Recording
+# Chrome Extension Manifest V3 Window Recording
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/loRFgCHN1X0" frameborder="0" allowfullscreen></iframe>
+[Demo](https://youtu.be/loRFgCHN1X0)
 
 
 ## Overview
