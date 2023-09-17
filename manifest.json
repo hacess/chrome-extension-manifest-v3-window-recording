@@ -1,0 +1,13 @@
+{
+  "name": "Window Recording",
+  "description": "Record any screen/window in manifest V3",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action":{
+    "default_popup":"popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["tabs", "activeTab", "desktopCapture"]
+}
